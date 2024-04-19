@@ -1,0 +1,51 @@
+@charset "UTF-8";
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: cadetblue;
+}
+
+p{
+    color: brown;
+}
+
+.special_text{
+    font-style: italic;
+    color: darkmagenta;
+}
+
+.special_header{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
+}
+
+.special_header2{
+    color: darkgreen;
+}
+
+.default_div{
+    position: absolute;
+    border: solid 2px black;
+    background-color: beige;
+}
+
+.header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 350px;
+}
+
+.main_content{
+    top: 360px;
+    left: 5px;
+    right: 5px;
+    height: 1400px;
+}
+
+.footer{
+    top: 1765px;
+    left: 5px;
+    right: 5px;
+    height: 350px
+}
